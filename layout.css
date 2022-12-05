@@ -20,7 +20,7 @@ ul {
   
   .active {
     background-color: peachpuff;
-    text: black;
+    color: black;
   }
 
   /* Change the link color to #111 (black) on hover */
