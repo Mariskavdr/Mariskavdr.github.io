@@ -38,4 +38,10 @@ ul {
   
   body {
     background-color: cornsilk;
+    float: center;
+  }
+
+  img {
+    float: left;
+    padding-right: 5px
   }
