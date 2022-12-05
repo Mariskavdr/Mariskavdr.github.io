@@ -19,18 +19,18 @@ ul {
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: peachpuff;
   }
 
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
-    background-color: #111;
+  li a:hover:not(.active) {
+    background-color: peachpuff;
   }
 
   h1 {
     text-align: center;
     background-color: peachpuff;
-    padding: 25px;
+    padding: 18px;
   
   }
   
