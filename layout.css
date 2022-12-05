@@ -26,4 +26,13 @@ ul {
   li a:hover {
     background-color: #111;
   }
+
+  h1 {
+    text-align: center;
+    background-color: peachpuff;
   
+  }
+  
+  body {
+    background-color: cornsilk;
+  }
