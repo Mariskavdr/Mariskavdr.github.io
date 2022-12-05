@@ -45,3 +45,9 @@ ul {
     float: left;
     padding-right: 5px
   }
+
+  .footer {
+    position: fixed;
+    background-color: peachpuff;
+    width: 100%;
+  }
