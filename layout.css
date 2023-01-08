@@ -3,7 +3,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: peachpuff;
+    background-color: black;
   }
   
   li { /* de tekst in de navigatiebar komt hiermee links te staan */
