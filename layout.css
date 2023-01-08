@@ -1,16 +1,16 @@
-ul {
+ul { /* dit is de opmaak van de navigatiebar */
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: peachpuff;
   }
   
-  li {
+  li { /* de tekst in de navigatiebar komt hiermee links te staan */
     float: left;
   }
   
-  li a {
+  li a { /* dit is hoe de tekst in de navigatiebar eruitziet */
     display: block;
     color: white;
     text-align: center;
@@ -18,35 +18,36 @@ ul {
     text-decoration: none;
   }
   
-  .active {
+  .active { /* als je de link in de navigatiebar aanklikt, krijgt deze deze opmaak */
     background-color: peachpuff;
     color: black;
   }
 
-  /* Change the link color to #111 (black) on hover */
+  /* dit is de kleur die de link krijgt als je erover hovert */
   li a:hover:not(.active) {
     background-color: peachpuff;
     color: black;
   }
 
-  h1 {
+  
+  h1 { /* dit is de opmaak van de titel */
     text-align: center;
     background-color: peachpuff;
     padding: 11px;
   
   }
   
-  body {
+  body { /* dit is de achtergrond van de pagina */
     background-color: cornsilk;
     float: center;
   }
 
-  img {
+  img {  /* dit is de opmaak van de afbeelding */
     float: left;
     padding-right: 5px
   }
 
-  .footer {
+  .footer { /* dit is de opmaak van de footer */
     position: fixed;
     background-color: peachpuff;
     width: 100%;
