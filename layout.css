@@ -47,6 +47,11 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding-right: 5px
   }
 
+  img2 {
+    float: none;
+    padding-top: 200px
+  }
+
   .footer { /* dit is de opmaak van de footer */
     position: fixed;
     background-color: peachpuff;
