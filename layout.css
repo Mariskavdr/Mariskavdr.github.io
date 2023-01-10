@@ -49,7 +49,6 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   img2 {
     float: none;
-    padding-top: 1500px
   }
 
   .footer { /* dit is de opmaak van de footer */
@@ -59,4 +58,11 @@ ul { /* dit is de opmaak van de navigatiebar */
     text-align: center;
     bottom: 0;
     left: 0;
+  }
+
+  .column {
+    float: right;
+    width: 30%;
+    padding: 15px
+
   }
