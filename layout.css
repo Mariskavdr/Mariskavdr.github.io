@@ -47,7 +47,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding-right: 5px
   }
 
-  img2 {
+  img2 { /* dit is de opmaak van de afbeelding */
     float: none;
   }
 
@@ -60,7 +60,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     left: 0;
   }
 
-  .column {
+  .column { /* dit is de opmaak van de tekst en een afbeelding */
     float: right;
     width: 55%;
     padding: 15px
