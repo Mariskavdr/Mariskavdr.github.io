@@ -7,7 +7,7 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
   
   li { /* de tekst in de navigatiebar komt hiermee links te staan */
-    float: left;
+    float: left; 
   }
   
   li a { /* dit is hoe de tekst in de navigatiebar eruitziet */
