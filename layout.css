@@ -67,5 +67,10 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   }
 
+  .column2 {
+    float: left;
+    width: 55%;
+    padding: 15px
+  }
   
 
