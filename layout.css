@@ -73,6 +73,12 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding: 15px
   }
 
+  .column3 {
+    float: none;
+    width: 40%;
+    padding: 15px
+  }
+
   
   
 
