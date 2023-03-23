@@ -69,12 +69,10 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .column2 {
     float: left;
-    width: 55%;
+    width: 10%;
     padding: 15px
   }
 
-  div {
-    scroll-padding: 500px;
-  }
+  
   
 
