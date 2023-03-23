@@ -73,8 +73,12 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding: 15px
   }
 
+  @media screen and (max-width: 600px) {
+    .column2 {
+      width: 100%;
+    }
+
  
 
   
   
-
