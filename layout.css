@@ -72,5 +72,9 @@ ul { /* dit is de opmaak van de navigatiebar */
     width: 55%;
     padding: 15px
   }
+
+  div {
+    scroll-padding: 20px;
+  }
   
 
