@@ -52,7 +52,7 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
 
   .footer { /* dit is de opmaak van de footer */
-    position: fixed;
+    position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
     background-color: peachpuff;
     width: 100%;
     text-align: center;
@@ -73,11 +73,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding: 15px
   }
 
-  .column2:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
+ 
 
  
 
