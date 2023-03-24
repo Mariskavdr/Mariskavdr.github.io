@@ -59,6 +59,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     width: 450px; 
     height: 435px;
     left: 10%;
+    position: relative;
   }
 
 .img4 { 
