@@ -56,6 +56,11 @@ ul { /* dit is de opmaak van de navigatiebar */
     
   }
 
+  img4 { 
+    float: none;
+    
+  }
+
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
     background-color: peachpuff;
