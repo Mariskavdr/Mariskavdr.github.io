@@ -68,6 +68,14 @@ ul { /* dit is de opmaak van de navigatiebar */
     height: 225px;
 }
 
+.img5 { 
+  float: left;
+  left: 10%; 
+  position: relative;
+  width: 600px; 
+  height: 30px;
+}
+
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
     background-color: peachpuff;
