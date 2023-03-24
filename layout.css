@@ -58,7 +58,8 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
 
   img4 { 
-    float: none;
+    float: right;
+    padding-top: 200p;
     
   }
 
