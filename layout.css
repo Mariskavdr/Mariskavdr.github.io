@@ -42,24 +42,22 @@ ul { /* dit is de opmaak van de navigatiebar */
     float: center;
   }
 
-  img1 {  /* dit is de opmaak van de afbeelding */
+  .img1 {  /* dit is de opmaak van de afbeelding */
     float: left;
     padding-right: 5px
   }
 
-  img2 { /* dit is de opmaak van de afbeelding */
+  .img2 { /* dit is de opmaak van de afbeelding */
     float: none;
-    padding: 20 px;
   }
 
-  img3 { /* dit is de opmaak van de afbeelding */
+  .img3 { /* dit is de opmaak van de afbeelding */
     float: left;
     
   }
 
-  img4 { 
+  .img4 { 
     float: right;
-    padding-top: 200p;
     
   }
 
