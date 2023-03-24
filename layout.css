@@ -58,11 +58,11 @@ ul { /* dit is de opmaak van de navigatiebar */
     float: left;
     width: 450px; 
     height: 435px;
-    left: 5%;
-    position: relative;
+    left: 5%; /* dit is hoeveel % de afbeelding van de linkerkant van de pagina af staat */
+    position: relative; /* de afbeelding wordt hier makkelijker mee verplaatst */
   }
 
-.img4 { 
+  .img4 { 
     float: right;
     right: 10%; /* dit is hoeveel % de afbeelding van de rechterkant van de pagina af staat */
     position: relative;
