@@ -56,10 +56,10 @@ ul { /* dit is de opmaak van de navigatiebar */
     
   }
 
-  .img4 { 
+.img4 { 
     float: right;
-    padding-left: 40px;
-  }
+    right: 10%;
+}
 
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
