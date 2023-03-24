@@ -49,6 +49,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .img2 { /* dit is de opmaak van de afbeelding */
     float: none;
+    height: 100px;
   }
 
   .img3 { /* dit is de opmaak van de afbeelding */
@@ -58,7 +59,6 @@ ul { /* dit is de opmaak van de navigatiebar */
 
 .img4 { 
     float: right;
-    right: 10%;
     position: relative;
 }
 
