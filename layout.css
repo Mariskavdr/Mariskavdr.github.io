@@ -49,6 +49,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   img2 { /* dit is de opmaak van de afbeelding */
     float: none;
+    padding: 20 px;
   }
 
   img3 { /* dit is de opmaak van de afbeelding */
