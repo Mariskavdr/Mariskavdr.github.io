@@ -45,6 +45,8 @@ ul { /* dit is de opmaak van de navigatiebar */
   .img1 {  /* dit is de opmaak van de afbeelding */
     float: left;
     padding-right: 5px
+    width: 512px;
+    height: 288px;
   }
 
   .img2 { /* dit is de opmaak van de afbeelding */
@@ -54,7 +56,8 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .img3 { /* dit is de opmaak van de afbeelding */
     float: left;
-    
+    width: 450px; 
+    height: 435px;
   }
 
 .img4 { 
