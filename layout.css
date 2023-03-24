@@ -1,26 +1,26 @@
 ul { /* dit is de opmaak van de navigatiebar */
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    margin: 0; /* margin zorgt voor een aantal pixels om de tekst/afbeelding (buiten het element) */
+    padding: 0; /* padding zorgt voor een aantal pixels om de tekst/afbeelding (binnen het element) */
     overflow: hidden;
     background-color: black;
   }
   
   li { /* de tekst in de navigatiebar komt hiermee links te staan */
-    float: left; 
+    float: left; /* float zorgt ervoor dat de tekst of afbeelding naar de gewenste kant wordt uitgelijnd */
   }
   
   li a { /* dit is hoe de tekst in de navigatiebar eruitziet */
-    display: block;
-    color: white;
-    text-align: center;
+    display: block; 
+    color: white; /* kleur tekst */
+    text-align: center; /* tekst in het midden van de knop */
     padding: 14px 16px;
     text-decoration: none;
   }
   
   .active { /* als je de link in de navigatiebar aanklikt, krijgt deze deze opmaak */
-    background-color: peachpuff;
-    color: black;
+    background-color: peachpuff; /* achtergrondkleur */
+    color: black; /* tekstkleur */
   }
 
   /* dit is de kleur die de link krijgt als je erover hovert */
@@ -51,7 +51,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     float: none;
   }
 
-  img3 {
+  img3 { /* dit is de opmaak van de afbeelding */
     float: left;
     
   }
@@ -59,8 +59,8 @@ ul { /* dit is de opmaak van de navigatiebar */
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
     background-color: peachpuff;
-    width: 100%;
-    text-align: center;
+    width: 100%; /* dit is de breedte van de footer (width ook worden gebruikt bij afbeeldingen) */
+    text-align: center; /* hiermee komt de tekst in de footer in het midden */
     bottom: 0;
     left: 0;
   }
@@ -68,7 +68,7 @@ ul { /* dit is de opmaak van de navigatiebar */
   .column { /* dit is de opmaak van de tekst en een afbeelding */
     float: right;
     width: 55%;
-    padding: 15px
+    padding: 15px; 
 
   }
 
