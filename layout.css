@@ -58,7 +58,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .img4 { 
     float: right;
-    
+    padding-left: 40px;
   }
 
   .footer { /* dit is de opmaak van de footer */
