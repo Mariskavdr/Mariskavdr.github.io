@@ -4,6 +4,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding: 0; /* padding zorgt voor een aantal pixels om de tekst/afbeelding (binnen het element) */
     overflow: hidden;
     background-color: black;
+  
   }
   
   li { /* de tekst in de navigatiebar komt hiermee links te staan */
