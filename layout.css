@@ -104,9 +104,9 @@ ul { /* dit is de opmaak van de navigatiebar */
       display: none;
     }
   
- .dropdownbutton:hover .dropdownmenu {
-  display:block;
- }
+
+  .dropdownbutton> li:hover
+ { background-color:peachpuff }
 
  
 
