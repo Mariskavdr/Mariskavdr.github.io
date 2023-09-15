@@ -99,7 +99,14 @@ ul { /* dit is de opmaak van de navigatiebar */
     padding: 15px
   }
 
- 
+  
+    .dropdownmenu {
+      display: none;
+    }
+  
+ .dropdownbutton:hover .dropdownmenu {
+  display:block;
+ }
 
  
 
