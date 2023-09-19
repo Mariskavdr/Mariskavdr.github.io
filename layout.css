@@ -55,7 +55,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .img3 { /* dit is de opmaak van de afbeelding */
     float: left;
-      max-width: 100%;
+      width: 20%;
       height: auto;
     left: 5%; /* dit is hoeveel % de afbeelding van de linkerkant van de pagina af staat */
     position: relative; /* de afbeelding wordt hier makkelijker mee verplaatst */
