@@ -100,16 +100,20 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
 
   
-    .dropdownmenu {
-      display: none;
-    }
-  
+    
+  .dropdownmenu {
+    display: none;
+    position: absolute;
+    background-color: black;
+    width: 9.5%;
+  }
 
-  .dropdownbutton> li:hover
- {
-  display:block
-  background-color:peachpuff
-   }
+
+.dropdownbutton:hover .dropdownmenu
+{
+display:block;
+ }
+
 
  
 
