@@ -114,11 +114,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 display:block;
  }
 
- @media screen and (max-width: 600px) {
-  .dropdown-content {
-      width: 100%;
-
-  }
+ 
  
 
   
