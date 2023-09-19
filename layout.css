@@ -65,7 +65,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     float: right;
     right: 10%; /* dit is hoeveel % de afbeelding van de rechterkant van de pagina af staat */
     position: relative;
-    width: 600px; 
+    width: 550px; 
     height: 225px;
 }
 
