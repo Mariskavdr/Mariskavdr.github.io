@@ -20,26 +20,26 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
   
   .active { /* als je de link in de navigatiebar aanklikt, krijgt deze deze opmaak */
-    background-color: peachpuff; /* achtergrondkleur */
+    background-color: rgb(218, 99, 103); /* achtergrondkleur */
     color: black; /* tekstkleur */
   }
 
   /* dit is de kleur die de link krijgt als je erover hovert */
   li a:hover:not(.active) {
-    background-color: peachpuff;
+    background-color: rgb(218, 99, 103);
     color: black;
   }
 
   
   h1 { /* dit is de opmaak van de titel */
     text-align: center;
-    background-color: peachpuff;
+    background-color: rgb(218, 99, 103);
     padding: 11px;
   
   }
   
   body { /* dit is de achtergrond van de pagina */
-    background-color: cornsilk;
+    background-color: rgb(238, 19, 143);
     float: center;
   }
 
@@ -79,7 +79,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
-    background-color: peachpuff;
+    background-color: rgb(218, 99, 103);
     width: 100%; /* dit is de breedte van de footer (width ook worden gebruikt bij afbeeldingen) */
     text-align: center; /* hiermee komt de tekst in de footer in het midden */
     bottom: 0;
