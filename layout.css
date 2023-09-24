@@ -119,11 +119,9 @@ ul { /* dit is de opmaak van de navigatiebar */
 display:block;
  }
 
- .tekstfooter {
-  text-align: center;
-  margin-bottom: 5%;
- }
- 
+.tekstfooter {
+  margin-bottom: 2%;
+}
 
   
   
