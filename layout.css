@@ -20,13 +20,11 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
   
   .active { /* als je de link in de navigatiebar aanklikt, krijgt deze deze opmaak */
-    background-color: rgb(238, 19, 143); /* achtergrondkleur */
-    color: black; /* tekstkleur */
+    color: rgb(238, 19, 143); /* tekstkleur */
   }
 
   /* dit is de kleur die de link krijgt als je erover hovert */
   li a:hover:not(.active) {
-    background-color: rgb(238, 19, 143);
     color: black;
   }
 
