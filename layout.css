@@ -20,26 +20,26 @@ ul { /* dit is de opmaak van de navigatiebar */
   }
   
   .active { /* als je de link in de navigatiebar aanklikt, krijgt deze deze opmaak */
-    background-color: rgb(218, 99, 103); /* achtergrondkleur */
+    background-color: rgb(238, 19, 143); /* achtergrondkleur */
     color: black; /* tekstkleur */
   }
 
   /* dit is de kleur die de link krijgt als je erover hovert */
   li a:hover:not(.active) {
-    background-color: rgb(218, 99, 103);
+    background-color: rgb(238, 19, 143);
     color: black;
   }
 
   
   h1 { /* dit is de opmaak van de titel */
     text-align: center;
-    background-color: rgb(218, 99, 103);
+    background-color: rgb(238, 19, 143));
     padding: 11px;
   
   }
   
   body { /* dit is de achtergrond van de pagina */
-    background-color: rgb(238, 19, 143);
+    background-color: rgb(255, 157, 212);
     float: center;
   }
 
