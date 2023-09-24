@@ -79,7 +79,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
-    background-color: rgb(218, 99, 103);
+    background-color: rgb(238, 19, 143);
     width: 100%; /* dit is de breedte van de footer (width ook worden gebruikt bij afbeeldingen) */
     text-align: center; /* hiermee komt de tekst in de footer in het midden */
     bottom: 0;
