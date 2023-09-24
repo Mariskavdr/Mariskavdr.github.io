@@ -57,7 +57,7 @@ ul { /* dit is de opmaak van de navigatiebar */
     float: left;
       width: 20%;
       height: auto;
-      margin-left: 10%
+      margin-left: 40%
     left: 5%; /* dit is hoeveel % de afbeelding van de linkerkant van de pagina af staat */
     position: relative; /* de afbeelding wordt hier makkelijker mee verplaatst */
   }
