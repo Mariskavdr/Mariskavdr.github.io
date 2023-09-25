@@ -89,7 +89,7 @@ ul { /* dit is de opmaak van de navigatiebar */
 
 .img7 {
   float: right;
-  right: 10%;
+  right: 5%;
   position: relative;
   max-width: 100%;
   height: 300px;
@@ -131,6 +131,16 @@ ul { /* dit is de opmaak van de navigatiebar */
 .dropdownbutton:hover .dropdownmenu
 {
 display:block;
+ }
+
+ .youtubevideo {
+  float: right;
+  right: 5%;
+  position: relative;
+  max-width: 100%;
+  height: 300px;
+  margin-top: 30%;
+
  }
 
 
