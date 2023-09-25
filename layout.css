@@ -99,11 +99,11 @@ ul { /* dit is de opmaak van de navigatiebar */
 
 .img8 {
   float: left;
-  right: 10%;
+  left: 10%;
   position: relative;
   max-width: 100%;
   height: 300px;
-  margin-top: 15%;
+  margin-top: 9%;
   
 }
   .footer { /* dit is de opmaak van de footer */
