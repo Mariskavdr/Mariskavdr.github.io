@@ -106,6 +106,16 @@ ul { /* dit is de opmaak van de navigatiebar */
   margin-top: 3%;
   
 }
+
+.img9 {
+  float: right;
+  right: 10%;
+  position: relative;
+  max-width: 100%;
+  height: 450px;
+  margin-top: 17%;
+
+}
   .footer { /* dit is de opmaak van de footer */
     position: fixed; /* dit zorgt ervoor dat de footer altijd te zien is */
     background-color: rgb(238, 19, 143);
