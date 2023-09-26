@@ -178,7 +178,7 @@ display:block;
  }
 
 .video {
-  float: none;
+  float: left;
   left: 33%;
   position: relative;
   margin-bottom: 5%;
