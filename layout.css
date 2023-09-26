@@ -178,8 +178,8 @@ display:block;
  }
 
 .video {
-  float: right;
-  left: 2%;
+  float: none;
+  left: 33%;
   position: relative;
   margin-bottom: 3%;
 }
