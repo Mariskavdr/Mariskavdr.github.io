@@ -177,7 +177,14 @@ display:block;
 
  }
 
-
+.video {
+  float: left;
+  left: 5%;
+  position: relative;
+  margin-bottom: 3%;
+  width: 100%;
+  height: auto;
+}
 
   
   
